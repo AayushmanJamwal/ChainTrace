@@ -44,7 +44,7 @@ Also it leads to an increase in the transparency and helps to build an efficient
 ## Architecture
 The smart contract is being written with Solidity which is then compiled, migrated and deployed using Truffle.js on the Gode Testnet blockchain network.The frontend uses Web3.js to communicate with the smart contract and Gode Testnet blockchain network and Meta Musk Wallet is connect to Gode Test Network to do Transaction between each component in Supply .
 ****
-![https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/Blank%20diagram.png](https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/Blank%20diagram.png)
+![https://raw.githubusercontent.com/chaintrace619/Supply-Chain-Gode-Blockchain/master/client/public/Blank%20diagram.png](https://raw.githubusercontent.com/chaintrace619/Supply-Chain-Gode-Blockchain/master/client/public/Blank%20diagram.png)
 
 ## Supply Chain Flow
 
@@ -55,7 +55,7 @@ The smart contract is being written with Solidity which is then compiled, migrat
 
 ## Smart Contract Working Flow
 
-![https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/Supply%20Chain%20Design%20(1).png?token=GHSAT0AAAAAAB52SPAT5YHI3AALNPFXL27AY7OU3IQ](https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/Supply%20Chain%20Design%20(1).png?token=GHSAT0AAAAAAB52SPAT5YHI3AALNPFXL27AY7OU3IQ)
+![https://raw.githubusercontent.com/chaintrace619/Supply-Chain-Gode-Blockchain/master/client/public/Supply%20Chain%20Design%20(1).png?token=GHSAT0AAAAAAB52SPAT5YHI3AALNPFXL27AY7OU3IQ](https://raw.githubusercontent.com/chaintrace619/Supply-Chain-Gode-Blockchain/master/client/public/Supply%20Chain%20Design%20(1).png?token=GHSAT0AAAAAAB52SPAT5YHI3AALNPFXL27AY7OU3IQ)
 
 This is a SupplyChain smart contract written in Solidity. The contract models the various roles and stages involved in the supply chain of a pharmaceutical product.
 
@@ -88,7 +88,7 @@ Overall, this smart contract provides a way to track the various stages of a pha
 ## Create,Compile & Deploy Smart Contract. 
 
 * Open VScode and open VScode Terimal by Ctrl + ' .
-* **Clone Project** Type the following command and press Enter : git clone : ` https://github.com/faizack619/Supply-Chain-Blockchain.git  
+* **Clone Project** Type the following command and press Enter : git clone : ` https://github.com/chaintrace619/Supply-Chain-Blockchain.git  
 * **Install truffle** : Type the following command and press Enter: `npm install -g truffle`
 * **Install dependencies** : Type the following command and press Enter: `npm i`
 * **File structure for  DApp** : 
